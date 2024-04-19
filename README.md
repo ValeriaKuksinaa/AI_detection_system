@@ -6,3 +6,19 @@ Create a system capable of detecting the use of AI-generated content, including 
 git clone
 pip install -r requirentments.txt 
 ```
+
+## Datasets in use:
+
+### LLM: 
+
+[Datamix](https://www.kaggle.com/datasets/conjuring92/ai-mix-v26)
+
+### CV:
+
+[ArtiFact](https://www.kaggle.com/datasets/awsaf49/artifact-dataset)
+
+### Audio:
+
+[LibriSpeech ASR corpus (clean)](https://www.kaggle.com/datasets/victorling/librispeech-clean)
+
+[SP22](https://www.kaggle.com/datasets/awsaf49/sp22-synthetic-dataset)
